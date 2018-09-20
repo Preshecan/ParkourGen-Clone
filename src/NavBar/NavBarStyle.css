@@ -1,0 +1,81 @@
+#navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff;
+    line-height: 60px;
+}
+
+#navbar li{
+    text-align:center;
+    display:inline-block;
+}
+
+#navbar li a{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+/*
+li a:hover:not(.active) {
+    background-color: blue;
+    color: white;
+    transition: 0.5s ease;
+}*/
+
+.activeBar img{
+    height:80px;
+    min-height: 80px;
+    width: auto;
+    max-height:100%;
+    vertical-align: middle;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+a#one.activeBar{
+    padding: 0px;
+    margin-top: 5px;
+    box-sizing:border-box;
+}
+
+li #two:hover{
+    background-color: green;
+    color: white;
+    transition: 0.5s ease;
+}
+
+li #three:hover{
+    background-color: black;
+    color: white;
+    transition: 0.5s ease;
+}
+
+li #four:hover{
+    background-color: orange;
+    color: white;
+    transition: 0.5s ease;
+}
+
+li #five:hover{
+    background-color: brown;
+    color: white;
+    transition: 0.5s ease;
+}
+
+li #six:hover{
+    background-color: red;
+    color: white;
+    transition: 0.5s ease;
+}
+
+li #seven:hover{
+    background-color: grey;
+    color: white;
+    transition: 0.5s ease;
+}
+
