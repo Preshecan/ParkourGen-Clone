@@ -1,3 +1,29 @@
+/----------------------------------------------------------------------------------------/
+
+Project deployed at: https://preshecan.github.io/ParkourGen-Clone/
+
+Original website that I have attempted to clone: http://parkourgenerations.com/
+
+Practicing front end development using react
+
+/---------------------------------------------------------------------------------------/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
