@@ -25,8 +25,8 @@ html, body{
 
 }
 
-.pimg0{
-	background-image:url('http://www.formica.com/~/media/emea/images/decors/eu/f0949.jpg?bmw=true&fd=true');
+.slideshow{
+	/*background-image:url('http://www.formica.com/~/media/emea/images/decors/eu/f0949.jpg?bmw=true&fd=true');*/
 	min-height:600px;
 }
 
